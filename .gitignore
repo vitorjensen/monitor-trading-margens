@@ -1,0 +1,6 @@
+# Ignorar bases de dados locais e temporários
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.DS_Store
+.env
